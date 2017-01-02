@@ -1,5 +1,9 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 git update
+<<<<<<< HEAD
 haha I am coming!
 ha
+=======
+ni hao a 
+>>>>>>> ea68a903c966d8f9829d3763722c3a79e01becc6
